@@ -4285,6 +4285,49 @@ If she's humming with it, you're more like a pressure cooker of irresistable urg
 		*goto fuckit
 
 *label fuckit
+You straddle Tamara's leg, and as you're bringing your dick toward her pussy, you almost still can't believe she's just letting you fuck her. Still, that's what she said (except you can't come), so you press your dick's head between her pussy lips.
+
+With her other leg all the way up by her face, her pussy's pulled very taut, but she's so wet, you find yourself slipping in quite easily. It's tight, almost impossibly so, due to her contortionism!
+*page_break
+Oh, man, it feels so good, almost too good. You wonder if you can really handle fucking such a tight pussy on such a hot body doing such a hot thing.
+*choice
+	#Fuck it. Just fuck it.
+		*goto justfuckit
+	#Change your mind. Play it safe and pull out.
+		*goto changemindpullout
+	#Weeell, maybe just stay in for a second?
+		*goto staysecond
+
+*label justfuckit
+[This option is yet to be written.]
+
+*label changemindpullout
+[This option is yet to be written.]
+
+*label staysecond
+Good idea. While it'd be way too dangerous to actually fuck her, just staying like this already feels so good. You decide to just hang out like this for a few seconds before pulling out to resume giving her her "massage with funny business."
+*page_break
+Hmm... but you're not even all the way in yet. Shouldn't you push in all the way for your few seconds of non-moving bliss time?
+*choice
+	#Yes, push in all the way, but then resume NOT moving.
+		*goto pushinstaysecond
+	#No, it's so tight, and she's so hot that even this is too dangerous.
+		*goto nopushinstaysecond
+
+*label pushinstaysecond
+[This option is yet to be written.]
+
+*label nopushinstaysecond
+Yeah, but being only halfway in her is maddening! You can't enjoy the wonderful, warm, wet tightness when your body is screaming with intense need.
+*choice
+	#Push in all the way. You're confident you'll be able to control yourself after that.
+		*goto pushinstaysecond
+	#On second thought...
+		*goto nopushinstaysecond
+	#It's worth a butt-raping. Fuck with abandon!
+		*goto fuckitabandon
+
+*label fuckitabandon
 [This option is yet to be written.]
 
 *label kissmouthtoes
@@ -4470,6 +4513,69 @@ Tamara holds the stick out in front of your face.
 
 *label declinestickass
 *comment Tamara says he's done. Time to sleep. Maybe feels sorry for him. Sleep together?
+"Why? I actually kinda like anal sex," Tamara says.
+*fake_choice
+	#"Yeah, but learning about these as a fourteen-year-old sex slave? I just can't do it."
+"Aw, that's so sweet of you," Tamara says. "Okay, I waive your punishment. Come on, let's go to sleep. Big day tomorrow."
+*page_break
+Did she just say, "Let's go to sleep?" Does that mean what you think it means???
+*choice
+	#Maybe it does! Get in bed with her.
+		*goto stickasssleeptog
+	#Play it safe. Sleep in your own bedroll.
+		*goto nostickasssleeptog
+
+*label stickasssleeptog
+As Tamara's getting into her bedroll, you linger a bit, even edge a bit closer to her.
+
+She looks up at you, surprised, but after only a moment's hesitation she lifts her covers to invite you inside.
+
+"I guess it [i]would[/i] be nice to sleep together," she says. "But ONLY sleeping, because you know, the whole master-apprentice proper distance thing. NO funny business."
+*page_break
+You lie down next to her, and she snuggles up against you. It feels so nice! 
+*page_break
+Of course, your hormones are raging, but you control them...
+*page_break
+Even when Tamara puts her hand on your cock and balls...
+*page_break
+Wha? WTF is she doing? Is she asleep? Did her hand just happen to go there? Is she teasing you? Or... is this an invitation for sex!
+*choice
+	#Continue lying still.
+		*goto stickassstill
+	#Put your hand on her hand.
+		*goto handonhand
+	#Have sex.
+		*goto stickasssex
+
+*label stickassstill
+[This option is yet to be written.]
+
+*label handonhand
+[This option is yet to be written.]
+
+*label stickasssex
+You start to roll over on top of Tamara, but just when you're about to mount her, she kicks you hard in the stomach, shoving you off her and almost into the fire.
+
+"What did I [i]just[/i] say, apprentice?" she cries. "NO funny business!"
+*choice
+	#"But, but your hand... It was on my... Doesn't that mean...?"
+		*goto stickassbutt
+	#"Okay, okay, sorry," you say and lie back down with her again.
+		*goto stickasslieagain
+	#Go back to your own bedroll.
+		*goto nostickasslieagain
+
+*label stickassbutt
+*comment pun on but, butt. "Butt... butt..." Tamara says sarcastically, imitating you. "Okay, fine. Stick in the butt time for you if you want it that bad."
+[This option is yet to be written.]
+
+*label stickasslieagain
+[This option is yet to be written.]
+
+*label nostickasslieagain
+[This option is yet to be written.]
+
+*label nostickasssleeptog
 [This option is yet to be written.]
 
 *label otherstickass
@@ -11865,3 +11971,9 @@ Tamara wraps her arms around your neck, and wraps one leg around you. Rising up 
 
 *goto sleepchoice
 	
+
+
+
+
+
+
