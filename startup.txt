@@ -25,6 +25,9 @@
 	sugar
 	morning_alone
 	juliette
+	werewolf_milk
+	werewolf_homecoming
+	dryad
 
 *create debug true
 *create jumplabel ""
@@ -746,6 +749,8 @@ Testing Notes:
 					*goto sm_top
 		#Recent Changes
 			*choice
+				#Dryad
+					*goto_scene dryad
 				#Werewolf Milk
 					*goto_scene werewolf_milk
 				#Werewolf Homecoming
