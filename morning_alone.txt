@@ -270,8 +270,9 @@ Tamara nods.
 *if monosexual_asterisk = "*"
 	*set monosexual_asterisk ""
 	_____________________________
-	*Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
+	* Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
 
+*page_break
 *label lesbian
 She turns to go.
 

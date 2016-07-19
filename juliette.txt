@@ -412,7 +412,7 @@ You put your member back in your pants, wondering why it didn't work. It always 
 *if monosexual_asterisk = "*"
 	*set monosexual_asterisk ""
 	_____________________________
-	*Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
+	* Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
 *choice
 	#Chase after her.
 		*goto chasejul
@@ -568,8 +568,9 @@ Tamara fixes her eyes upon it as if for the first time.
 *if monosexual_asterisk = "*"
 	*set monosexual_asterisk ""
 	_____________________________
-	*Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
+	* Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
 
+*page_break
 *goto_scene morning_alone lesbian
 
 *label banes
@@ -1246,8 +1247,9 @@ Tamara quickly pulls her breeches up and pretends as if nothing untoward had jus
 *if monosexual_asterisk = "*"
 	*set monosexual_asterisk ""
 	_____________________________
-	*Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
 
+	* Monosexual: On this world, true monosexuality, either purely heterosexual or homosexual, is rare, the vast majority bisexual, though a greater percentage prefer the opposite sex more than their own. 
+*page_break
 *goto_scene morning_alone lesbian
 
 *label noproposebanes
